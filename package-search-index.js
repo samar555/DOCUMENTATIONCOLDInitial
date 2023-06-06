@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"aoneproject.company"},{"l":"aoneproject.splash"},{"l":"dashboared"},{"l":"dashboared.entry"},{"l":"dashboared.mandiBook"},{"l":"dashboared.payment"},{"l":"dashboared.registers"},{"l":"dashboared.stock"},{"l":"dashboared.update"},{"l":"helper"}];updateSearchResults();
